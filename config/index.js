@@ -1,2 +1,2 @@
-export const API_URL = 'http://localhost:3001'
-export const NEXT_URL = 'http://localhost:3000'
+export const API_URL = 'http://api.amarecoding.com'
+export const NEXT_URL = 'https://frontend.amarecoding.com'
